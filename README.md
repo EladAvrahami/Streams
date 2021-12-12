@@ -10,7 +10,7 @@ get uniqe num from list</br>
 2. מוריד זמן סיבוכיות-בעיקר במערכות זמן אמת 
 </br>
 ParllelStream-better with Big-Data</br>
-Statistics- give almost outomaticly : .getMin ,.getMax, .getAvr , .getSum ,.getCount </br>
+Statistics- give almost outomaticly : .getMin ,.getMax, .getAvr , .getSum ,.getCount  info of List</br>
 Lambada Expration
 MathOperation</br>
 
